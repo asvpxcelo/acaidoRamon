@@ -1,8 +1,8 @@
 # Açai do Ramon
 
-# Projeto desenvolvido para o investimento de um amigo local. Sem fins lucrativos da minha parte.
+<h3> Projeto desenvolvido para o investimento de um amigo local. Sem fins lucrativos da minha parte. </h3>
 
-# Utilizei apenas HTML, CSS e algumas coisas de Bootratrap.
+<h4> Utilizei apenas HTML, CSS e algumas coisas de Bootratrap. </h4>
 
 
 ![image](https://user-images.githubusercontent.com/51215549/114048926-5b8aba00-9861-11eb-966a-dca831cb0ba9.png)
